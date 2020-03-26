@@ -1,0 +1,12 @@
+
+L4  123 1 gosht_pasinde 2 660
+L4  123 1 Qeema_Matar 1 250
+L4  123 2 pad_thai 2 pad_thai 1 960
+L4  123 1 pansotti_alla_genovese 2 760
+L4  123 1 paaya 1 220
+L4  123 1 paaya 1 220
+L13  45 1 biryani 0 0
+L4  123 1 Dum_phukt 1 250
+L3  99 1 biryani 1 280
+L3  99 1 Dal_Makhani 1 340
+L4  8574 2 carbonara 1 lasagne 1 620

@@ -1,0 +1,10 @@
+
+L4  123 2 gaeng_daeng 2 pad_thai 1 880
+L4  123 2 gaeng_daeng 2 pad_thai 1 880
+L4  123 2 gaeng_daeng 2 pad_thai 1 880
+
+L3  1 1 chilly_potato 2 360
+L3  1 2 chowmien 2 munchurian 1 480
+L4  6969 1 chilly_potato 2 360
+L4  8574 2 som_tum 1  0 700
+L4  8574 1 Raj_kachori 5 800
